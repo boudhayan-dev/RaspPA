@@ -2,7 +2,7 @@
 import dropbox,os,shutil,time
 from audioSplitter import audio_convert
 from sppech import speech_to_text
-dbx=dropbox.Dropbox('jj41foGWJMAAAAAAAAAAmFaIj31Nkz_Rbtezie-WDypRLXIIHY3E4i9rpBexdjGD')
+dbx=dropbox.Dropbox('YOUR_DROPBOX_APP_KEY')
 
 
 while(1):
